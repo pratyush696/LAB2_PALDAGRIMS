@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TOzqnrRUIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAVITA\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAVITA\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
